@@ -1,0 +1,15 @@
+.logo-color {
+  background-image: url(../../../static/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 200px;
+  position: relative;
+  width: 227px;
+}
+
+.logo-color .subtract {
+  height: 102px;
+  left: 55px;
+  position: absolute;
+  top: 65px;
+  width: 117px;
+}
