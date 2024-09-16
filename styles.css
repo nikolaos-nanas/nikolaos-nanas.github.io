@@ -102,7 +102,7 @@ a:hover {
 @media (max-width: 600px) {
     
     .container{
-        padding: 24px;
+        padding: 16px;
         padding-top: 80px;
     }
 
@@ -128,6 +128,8 @@ a:hover {
 
     .call-to-action{
         width: auto;
+        padding-left: 8px;
+        padding-right: 8px;
     }
 
     .call-to-action h2 {
