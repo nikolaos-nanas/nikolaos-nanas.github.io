@@ -1,1 +1,0 @@
-export { LogoColor } from "./LogoColor";
