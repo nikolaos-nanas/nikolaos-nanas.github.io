@@ -59,12 +59,24 @@ body {
     letter-spacing: 1.04px;
 }
 
+.coming-soon{
+    color: rgba(255, 255, 255, 0.50);
+
+    /* Body/Regular 20 */
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 140% */   
+}
+
 .call-to-action{
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 8px;
     width: 448px;
+    display: none;
 }
 
 .call-to-action h2 {
@@ -131,6 +143,7 @@ a:hover {
         width: auto;
         padding-left: 8px;
         padding-right: 8px;
+        display: none;
     }
 
     .call-to-action h2 {
